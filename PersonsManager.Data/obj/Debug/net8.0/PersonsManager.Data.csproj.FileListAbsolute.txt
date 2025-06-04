@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\PersonsManager.Data\PersonsManager.Data\bin\Debug\net8.0\PersonsManager.Data.deps.json
+C:\Users\DELL\source\repos\PersonsManager.Data\PersonsManager.Data\bin\Debug\net8.0\PersonsManager.Data.dll
+C:\Users\DELL\source\repos\PersonsManager.Data\PersonsManager.Data\bin\Debug\net8.0\PersonsManager.Data.pdb
+C:\Users\DELL\source\repos\PersonsManager.Data\PersonsManager.Data\obj\Debug\net8.0\PersonsManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\PersonsManager.Data\PersonsManager.Data\obj\Debug\net8.0\PersonsManager.Data.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PersonsManager.Data\PersonsManager.Data\obj\Debug\net8.0\PersonsManager.Data.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PersonsManager.Data\PersonsManager.Data\obj\Debug\net8.0\PersonsManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PersonsManager.Data\PersonsManager.Data\obj\Debug\net8.0\PersonsManager.Data.dll
+C:\Users\DELL\source\repos\PersonsManager.Data\PersonsManager.Data\obj\Debug\net8.0\refint\PersonsManager.Data.dll
+C:\Users\DELL\source\repos\PersonsManager.Data\PersonsManager.Data\obj\Debug\net8.0\PersonsManager.Data.pdb
+C:\Users\DELL\source\repos\PersonsManager.Data\PersonsManager.Data\obj\Debug\net8.0\ref\PersonsManager.Data.dll
